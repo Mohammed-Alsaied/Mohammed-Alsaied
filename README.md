@@ -9,10 +9,12 @@ Skills:
 * OOP
 * LINQ
 * EF Core
+* SQL Server
+* .Net Core
+* .Net MVC
 * .Net Api
 * SOLID Principles 
 * Design Patterns
-* MSSQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammed-Alsaied)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-al-saeed-a9b18b1b4/)  
